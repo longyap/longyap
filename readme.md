@@ -1,4 +1,5 @@
-![background](https://www.animenewsnetwork.com/thumbnails/crop1200x630gG5/cms/news.3/159908/94259391_121042286225744_1539297733217615872_n.png.jpg)
+![background](https://gwi2.b-cdn.net/wp-content/uploads/2021/02/banner-cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore.jpg)
 
 ##Heyo fren
-Lets make the greatest shiity code together UwU
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
