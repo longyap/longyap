@@ -1,6 +1,6 @@
 ![background](https://gwi2.b-cdn.net/wp-content/uploads/2021/02/banner-cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore.jpg)
 
-## #Heyo fren 
+## #Heyo fren :fox_face:
 here's where i dump shitty code\
 linkedin:https://www.linkedin.com/in/yap-seng-long-34360813a/
 
@@ -12,9 +12,8 @@ linkedin:https://www.linkedin.com/in/yap-seng-long-34360813a/
 
 
 
-![longyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyap&theme=gotham )\
-### The language that i use
+![longyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyap&theme=gotham )  
+#### Framework and Technology :rocket:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longyap&layout=compact&theme=gotham)
 
 
-### The project that i work on
