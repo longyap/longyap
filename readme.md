@@ -8,7 +8,13 @@ linkedin:https://www.linkedin.com/in/yap-seng-long-34360813a/
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
-![longyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyap&theme=gotham )
 
+![longyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=longyap&theme=gotham )\
+### The language that i use
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longyap&layout=compact&theme=gotham)
+
+
+### The project that i work on
