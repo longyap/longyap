@@ -1,5 +1,5 @@
-![background](https://gwi2.b-cdn.net/wp-content/uploads/2021/02/banner-cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore.jpg)
 
+![background]( https://drive.google.com/uc?id=1Eh5aYtqYVGAxZEP8NbLcx181u9bOwLKX)
 ## #Heyo fren :fox_face:
 here's where i dump shitty code\
 linkedin:https://www.linkedin.com/in/yap-seng-long-34360813a/ \
