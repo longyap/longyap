@@ -1,5 +1,4 @@
 
-![background]( https://drive.google.com/uc?id=1Eh5aYtqYVGAxZEP8NbLcx181u9bOwLKX)
 ## #Heyo fren :fox_face:
 here's where i dump shitty code\
 linkedin:https://www.linkedin.com/in/yap-seng-long-34360813a/ \
@@ -18,3 +17,4 @@ codeberg:https://codeberg.org/longyap
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longyap&layout=compact&theme=gotham)
 
 
+![background](https://github.com/longyap/longyap/blob/main/WorksOnMyMachine%20(1).png)
